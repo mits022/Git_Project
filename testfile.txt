@@ -1,0 +1,5 @@
+Hi,
+
+This is test project for Git.
+
+Thanks
