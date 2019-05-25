@@ -3,3 +3,5 @@ Hi,
 This is test project for Git.
 
 Thanks
+
+Writing this line for 2nd commit
