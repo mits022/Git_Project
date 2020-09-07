@@ -2,6 +2,6 @@ Hi,
 
 This is test project for Git.
 
-Thanks
+Thanks Drishi
 
 Writing this line for 2nd commit
