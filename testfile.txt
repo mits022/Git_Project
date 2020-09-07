@@ -1,4 +1,4 @@
-Hi Drishi,
+Hi,
 
 This is test project for Git.
 
